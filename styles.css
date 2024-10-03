@@ -9,6 +9,19 @@ body {
 
 }
 
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:  #0d3640(252, 100%, 69%);
+}
+
+.promo-banner {
+    background-color: #0d3640(252, 100%, 69%);
+    color:  #dee0e1;;
+    text-align: center;
+    padding: 16px;
+}
 a{
     text-decoration: none;
 }
